@@ -7,7 +7,7 @@
 - Test APIs using Postman.
 
  
-### 🧰 Tools used 
+### 🧰 Tools 
 - JUnit
 - Selenium
 - Apache JMeter
